@@ -1,0 +1,16 @@
+body {
+    background-color: #55f;
+}
+
+article {
+    /*background: #ffffff url("img_tree.png") no-repeat right top
+    background: #ff3 url("../images/myowl.jpg");*/
+    color: #fff;
+    padding: 10px;
+}
+
+#owl-article img {
+    width: 320px;
+    height: 260px;
+    float: right;
+}
